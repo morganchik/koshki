@@ -1,0 +1,8 @@
+/etc/group:google-sudoers:x:1001:morg
+/etc/group:morg:x:1000:
+/etc/group-:morg:x:1000:
+/etc/hostname:morguter
+/etc/hosts:127.0.1.1 morguter.ru-central1.internal morguter
+/etc/passwd:morg:x:1000:1000::/home/morg:/bin/bash
+/etc/subgid:morg:100000:65536
+/etc/subuid:morg:100000:65536
